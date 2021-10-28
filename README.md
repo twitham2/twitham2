@@ -1,8 +1,8 @@
 ### Hi, 👋
 
-- I'm twitham inside Intel but @twitham2 here
-- My open source outside Intel as at [twitham1](https://github.com/twitham1/)
-- My preferred languange is Perl
+- I'm twitham inside Intel but @twitham2 out here on github
+- My open source outside Intel is at [twitham1](https://github.com/twitham1/) instead
+- My preferred languange is Perl, for work and for fun!
 
 <!--
 **twitham2/twitham2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
