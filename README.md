@@ -1,6 +1,6 @@
 ### Hi, 👋
 
-- I'm twitham inside Intel but @twitham2 out here on github
+- I'm twitham inside Intel but @twitham2 here on Intel's 1source on github
 - My open source outside Intel is at [twitham1](https://github.com/twitham1/) instead
 - My preferred languange is Perl, for work and for fun!
 
